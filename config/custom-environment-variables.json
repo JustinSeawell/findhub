@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "FINDHUB_JWT_PRIVATE_KEY",
+  "dbConnection": "FINDHUB_DB_CONNECTION"
+}
