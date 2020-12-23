@@ -4,7 +4,7 @@
   "description": "A search focused, project and document management tool.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -29,5 +29,8 @@
     "mongoose": "^5.11.8",
     "winston": "^3.3.3",
     "winston-mongodb": "^5.0.5"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
   }
 }
