@@ -4,7 +4,7 @@
   "description": "A search focused, project and document management tool.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --watchAll"
   },
   "repository": {
     "type": "git",
